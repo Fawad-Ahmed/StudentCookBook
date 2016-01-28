@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Student Cook Book</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_food_list">FoodListActivity</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_ingedients">IngedientsActivity</string>
+</resources>
